@@ -12,7 +12,7 @@ function App() {
   // set the type of age to be a number
   const age: number = 24;
   // create a boolean to show content on the screen
-  const show: boolean = false;
+  const show: boolean = true;
   // create a function that takes in a message of type string as a perameter
   const displayMessage = (message: string) => {
     setMessage(message);
